@@ -1,5 +1,4 @@
-# Tic-tac-toe from the react.js main page
-https://es.reactjs.org/tutorial/tutorial.html#adding-time-travel.
+# [Tic-tac-toe from the react.js main page](https://es.reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial)
 
 Tic-tac-toe exemple using the introductory course from React.js main page. Did all the steps following the instructions and trying to understand every simple part of this framework.
 
